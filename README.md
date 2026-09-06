@@ -2,7 +2,7 @@
 
 ### Impressão rápida, silenciosa e confiável para Windows
 
-O **PrintConnect** conecta o **FastMenu Pro** às impressoras do computador, permitindo realizar impressões diretamente pelo sistema, sem a necessidade de utilizar a janela de impressão do navegador.
+O **PrintConnect** conecta o **FastMenu Pro** às impressoras do computador, permitindo realizar impressões diretamente pelo sistema, sem utilizar a janela de impressão do navegador.
 
 ---
 
@@ -21,12 +21,11 @@ O **PrintConnect** conecta o **FastMenu Pro** às impressoras do computador, per
 ## 🚀 Instalação
 
 1. Clique no botão de download acima.
-2. Baixe o instalador `PrintConnect-Setup-0.3.2.exe`.
-3. Execute o instalador.
-4. Siga as instruções na tela.
-5. Após a instalação, o PrintConnect será iniciado automaticamente.
+2. Execute o instalador `PrintConnect-Setup-0.3.2.exe`.
+3. Siga as instruções apresentadas na tela.
+4. Após a instalação, o PrintConnect será iniciado automaticamente com o Windows.
 
-Não é necessário abrir o PrintConnect manualmente sempre que o computador for ligado.
+Não é necessário iniciar o programa manualmente sempre que o computador for ligado.
 
 ---
 
@@ -41,7 +40,7 @@ PrintConnect
      ▼
 Impressora
 
-O PrintConnect funciona em segundo plano no Windows e faz a comunicação entre o FastMenu Pro e a impressora.
+O PrintConnect funciona em segundo plano no Windows e realiza a comunicação entre o FastMenu Pro e a impressora.
 
 ⚙️ Recursos
 🖨️ Impressão silenciosa
@@ -49,15 +48,13 @@ O PrintConnect funciona em segundo plano no Windows e faz a comunicação entre 
 🔵 Suporte a impressoras Bluetooth
 📄 Impressão de textos
 🖼️ Impressão de imagens
-📋 Fila de impressão
+📋 Fila persistente de impressão
 🔄 Inicialização automática com o Windows
 🔗 Integração com sistemas web
 🛠️ Instalação simplificada
 🔄 Atualizações
 
-Novas versões serão disponibilizadas na seção Releases.
-
-Sempre utilize a versão mais recente disponível.
+Novas versões do PrintConnect serão disponibilizadas na seção Releases.
 
 📦 Ver versões disponíveis
 
