@@ -2,9 +2,7 @@
 
 ### Impressão rápida, silenciosa e confiável para Windows
 
-O **PrintConnect** é o agente de impressão local utilizado pelo **FastMenu Pro** para conectar sistemas web a impressoras instaladas no computador.
-
-Ele funciona em segundo plano no Windows e permite que o sistema envie pedidos diretamente para a impressora, sem depender da janela de impressão do navegador.
+O **PrintConnect** conecta o **FastMenu Pro** às impressoras do computador, permitindo realizar impressões diretamente pelo sistema, sem a necessidade de utilizar a janela de impressão do navegador.
 
 ---
 
@@ -16,23 +14,19 @@ Ele funciona em segundo plano no Windows e permite que o sistema envie pedidos d
 
 [⬇️ BAIXAR PRINTCONNECT PARA WINDOWS](https://github.com/MarcosViniciusF/PrintConnect-Download/releases/latest)
 
-Compatível com:
-
-- Windows 10
-- Windows 11
-- Windows 64 bits
+**Compatível com Windows 10 e Windows 11 — 64 bits**
 
 ---
 
 ## 🚀 Instalação
 
-1. Baixe o instalador acima.
-2. Execute `PrintConnect-Setup-0.3.2.exe`.
-3. Siga as etapas do instalador.
-4. O PrintConnect será instalado automaticamente como serviço do Windows.
-5. O serviço será iniciado automaticamente com o Windows.
+1. Clique no botão de download acima.
+2. Baixe o instalador `PrintConnect-Setup-0.3.2.exe`.
+3. Execute o instalador.
+4. Siga as instruções na tela.
+5. Após a instalação, o PrintConnect será iniciado automaticamente.
 
-Após a instalação, não é necessário abrir o programa manualmente para que o serviço de impressão funcione.
+Não é necessário abrir o PrintConnect manualmente sempre que o computador for ligado.
 
 ---
 
@@ -42,7 +36,55 @@ Após a instalação, não é necessário abrir o programa manualmente para que 
 FastMenu Pro
      │
      ▼
- PrintConnect
+PrintConnect
      │
      ▼
- Impressora
+Impressora
+
+O PrintConnect funciona em segundo plano no Windows e faz a comunicação entre o FastMenu Pro e a impressora.
+
+⚙️ Recursos
+🖨️ Impressão silenciosa
+⚡ Impressão rápida
+🔵 Suporte a impressoras Bluetooth
+📄 Impressão de textos
+🖼️ Impressão de imagens
+📋 Fila de impressão
+🔄 Inicialização automática com o Windows
+🔗 Integração com sistemas web
+🛠️ Instalação simplificada
+🔄 Atualizações
+
+Novas versões serão disponibilizadas na seção Releases.
+
+Sempre utilize a versão mais recente disponível.
+
+📦 Ver versões disponíveis
+
+🆘 Suporte
+
+Está com problemas para instalar ou configurar o PrintConnect?
+
+Entre em contato com o suporte do FastMenu Pro.
+
+FastMenu Pro
+
+Sistema de gestão e atendimento para estabelecimentos de alimentação.
+
+© 2026 FastMenu Pro
+
+
+### ⚠️ Só uma observação
+
+Esse link:
+
+```text
+/releases/latest
+
+é intencional. Quando você lançar a v0.3.3, por exemplo, o botão continuará levando o cliente para a versão mais recente.
+
+Então o cliente sempre verá:
+
+⬇️ BAIXAR PRINTCONNECT PARA WINDOWS
+
+sem você precisar trocar o link no README.
