@@ -12,7 +12,7 @@ O **PrintConnect** conecta o **FastMenu Pro** às impressoras do computador, per
 
 **Versão atual: v0.3.2**
 
-[⬇️ BAIXAR PRINTCONNECT PARA WINDOWS](https://github.com/MarcosViniciusF/PrintConnect-Download/releases/latest)
+[⬇️ BAIXAR PRINTCONNECT PARA WINDOWS](https://github.com/MarcosViniciusF/PrintConnect-Download/releases/latest/download/PrintConnect-Setup-0.3.2.exe)
 
 **Compatível com Windows 10 e Windows 11 — 64 bits**
 
@@ -72,19 +72,3 @@ FastMenu Pro
 Sistema de gestão e atendimento para estabelecimentos de alimentação.
 
 © 2026 FastMenu Pro
-
-
-### ⚠️ Só uma observação
-
-Esse link:
-
-```text
-/releases/latest
-
-é intencional. Quando você lançar a v0.3.3, por exemplo, o botão continuará levando o cliente para a versão mais recente.
-
-Então o cliente sempre verá:
-
-⬇️ BAIXAR PRINTCONNECT PARA WINDOWS
-
-sem você precisar trocar o link no README.
